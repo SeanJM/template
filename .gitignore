@@ -1,1 +1,6 @@
 script.js
+vendor/.DS_Store
+vendor/jquery-1.11.1.min.js
+vendor/jquery-1.11.1.min.map
+vendor/old_template.js
+vendor/snippet.js
